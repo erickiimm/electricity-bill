@@ -1,4 +1,5 @@
 
+
 function calculeAmountBillWithoutVAT(numberUnits, billingPeriod) {
     // using a unit rate (flat rate of 20 cents per unit)
     const unitRate = 0.20;
