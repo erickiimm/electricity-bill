@@ -5,6 +5,7 @@
 // selectively enable features needed in the rendering
 // process.
 
+
 const electricityBillService = require('./electricity-bill-service.js');
 let $ = jQuery = require('jquery');
 var Chart = require('chart.js');
